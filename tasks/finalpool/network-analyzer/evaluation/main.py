@@ -1,7 +1,7 @@
 # Evaluation script for network-analyzer
 
 def run_evaluation():
-    # TODO: Implement actual enumeration logic
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
